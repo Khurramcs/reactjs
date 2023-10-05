@@ -5,7 +5,7 @@ function List() {
   return (
     <div>
       <div className="flex items-center justify-between">
-        <div className="flex items-center">
+        <div className="flex items-left">
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiQI3KZbaArQIp8jmAcHd0kzVPB_dTcGx5jhuHJU8GCN5zYBUYp8m4vA5SxigAsArVnW8&usqp=CAU" alt="Logo" className="h-8 w-8 mr-2" />
           <h1 className="text-2xl font-bold mb-1">Routes</h1>
         </div>
